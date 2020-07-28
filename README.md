@@ -1,8 +1,8 @@
 ### Konnichiwa, I'm Devansh 👋
 
 - 🎓 High school student at Amity International School
-- :test_tube: Learning C++ and python for competitive programming
-- 🪐 Want to pursue computer science, and get to know about quantum computing
+- 💻 Learning C++ and python for competitive programming
+- ✏️ Want to pursue computer science, and get to know about quantum computing
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshamity@gmail.com)
