@@ -15,7 +15,6 @@
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
 ### Some of the technologies I've worked with
 
