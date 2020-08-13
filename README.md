@@ -24,4 +24,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
-![Devansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh3712&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Devansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh3712&show_icons=true&theme=dracula)
