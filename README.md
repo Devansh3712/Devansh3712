@@ -1,16 +1,6 @@
-### Konnichiwa, I'm Devansh 👋
+### Devansh Singh
 
-- 🎓 High school student at Amity International School
-- 💻 Learning C++ and python for competitive programming
-- ✏️ Want to pursue computer science, and get to know about quantum computing
-- ⚛️ HackerRank certified developer
-- :mailbox: You can reach me with the links below
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshamity@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshsingh3712/)
-[![Website](https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=react&logoColor=white)](https://https://devansh3712.github.io/website/)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-800000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whodevansh/)
-[![Youtube](https://img.shields.io/badge/-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4QK4jGBccL4gs_pFlUwrLQ)
+A 17 year old high school student, who loves to program ;) HackerRank certified developer, currently learning C++ for competitive programming. Founder of [Cryptocrats](https://github.com/crypto-crats), cyber club of AISV-6.
 
 ### Languages I use
 
