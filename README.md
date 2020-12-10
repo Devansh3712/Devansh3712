@@ -1,6 +1,6 @@
 ### Devansh Singh
 
-A 17 year old high school student, who loves to program ;) HackerRank certified developer, currently learning C++ for competitive programming. Founder of [Cryptocrats](https://github.com/crypto-crats), cyber club of AISV-6.
+A 18 year old high school student, who loves to program ;) HackerRank certified developer, currently learning C++ for competitive programming. Founder of [Cryptocrats](https://github.com/crypto-crats), cyber club of AISV-6.
 
 ### Languages I use
 
