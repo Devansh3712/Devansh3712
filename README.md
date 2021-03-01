@@ -12,3 +12,10 @@ A 18 year old python developer, currently learning C++ for competitive programmi
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 ![Devansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh3712&show_icons=true&theme=dracula)
+
+### Sponsor
+
+|Cryptocurrency|Address|
+|:------------:|:-----:|
+|BTC|3F8aunTPwQnmrWVU94ansD3MMN4jKZdEr6|
+|ETH|0xC7c76092aBB33534cab94839dA3050D84e6B7d8f|
