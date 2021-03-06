@@ -20,5 +20,5 @@ A 18 year old python developer, currently learning C++ for competitive programmi
 
 |Cryptocurrency|Address|
 |:------------:|:-----:|
-|BTC|3F8aunTPwQnmrWVU94ansD3MMN4jKZdEr6|
+|BTC|1EV6deJ35hK43mtaiBMvg5BG7EoPwwYtZq|
 |ETH|0xC7c76092aBB33534cab94839dA3050D84e6B7d8f|
