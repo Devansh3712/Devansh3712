@@ -28,17 +28,19 @@ A 18 year old python developer, currently learning C++ for competitive programmi
 |BTC|1EV6deJ35hK43mtaiBMvg5BG7EoPwwYtZq|
 |ETH|0x4C501d78c6Bf497d276dcB2D6aDD66B351CcDb85|
 
+---
+
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+ **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
+Programming Languages: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+Projects: 
 No Activity Tracked This Week
 
-💻 Operating System: 
+Operating System: 
 No Activity Tracked This Week
 
 ```
