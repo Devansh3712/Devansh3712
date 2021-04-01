@@ -27,3 +27,6 @@ A 18 year old python developer, currently learning C++ for competitive programmi
 |:------------:|:-----:|
 |BTC|1EV6deJ35hK43mtaiBMvg5BG7EoPwwYtZq|
 |ETH|0x4C501d78c6Bf497d276dcB2D6aDD66B351CcDb85|
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
