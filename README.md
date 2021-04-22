@@ -1,6 +1,6 @@
 # Devansh Singh
 
-A 18 year old python developer, currently learning C++ for competitive programming. Founder of [Cryptocrats](https://github.com/crypto-crats), cyber club of AISV-6. I'm an open source and cryptocurrency enthusiast, and have a keen interest in quantum computing. Also, I work as a freelancer on [Fiverr](https://www.fiverr.com/devansh3712).
+A 18 year old python developer, currently learning about cryptocurrencies/blockchain. Founder of [Cryptocrats](https://github.com/crypto-crats), cyber club of AISV-6. I'm an open source and cryptocurrency enthusiast, and have a keen interest in quantum computing. Also, I work as a freelancer on [Fiverr](https://www.fiverr.com/devansh3712).
 
 
 ![Devansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh3712&show_icons=true&theme=dracula)
