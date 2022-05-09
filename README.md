@@ -8,7 +8,7 @@ A 19 year old Python developer, currently learning about blockchain and backend 
 
 ### Languages I use
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 
 
 ### Technologies I work with
@@ -19,11 +19,3 @@ A 19 year old Python developer, currently learning about blockchain and backend 
 ### Find me on
 
 <a href="https://www.hackerrank.com/devanshamity"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> <a href="https://stackoverflow.com/users/13722027/devansh-singh"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> 	<a href = "https://www.linkedin.com/in/devanshsingh3/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-
-## Sponsor
-
-|Cryptocurrency|Address|
-|:------------:|:-----:|
-|BTC|1EV6deJ35hK43mtaiBMvg5BG7EoPwwYtZq|
-|ETH|0x4C501d78c6Bf497d276dcB2D6aDD66B351CcDb85|
